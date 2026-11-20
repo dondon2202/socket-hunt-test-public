@@ -1,0 +1,8 @@
+{
+  "name": "socket-hunt-test-public",
+  "version": "1.0.0",
+  "description": "Test file for Socket bug bounty research on own account",
+  "dependencies": {
+    "lodash": "4.17.21"
+  }
+}
